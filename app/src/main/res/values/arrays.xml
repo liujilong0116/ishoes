@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender" >
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+<!--    <string-array name="load_pic">-->
+<!--        <item>@drawable/op_registered</item>-->
+<!--        <item>@drawable/op_load</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="connect_bluetooth_pic">-->
+<!--        <item>@drawable/op_bluetooth_permission</item>-->
+<!--        <item>@drawable/op_scan</item>-->
+<!--        <item>@drawable/op_not_find_bluetooth</item>-->
+<!--        <item>@drawable/op_not_find_left</item>-->
+<!--        <item>@drawable/op_not_find_right</item>-->
+<!--        <item>@drawable/op_qr</item>-->
+<!--        <item>@drawable/op_did_not_match</item>-->
+<!--        <item>@drawable/op_linked</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="bind_bluetooth_pic">-->
+<!--        <item>@drawable/op_bind_blue</item>-->
+<!--        <item>@drawable/op_bind_or_unbind</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="realtime_data_show_pic">-->
+<!--        <item>@drawable/op_realtime_calibration</item>-->
+<!--        <item>@drawable/op_uncalibration</item>-->
+<!--        <item>@drawable/op_realtime_data</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="history_data_show_pressure_pic">-->
+<!--        <item>@drawable/op_history_data</item>-->
+<!--        <item>@drawable/op_history_trend</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="history_data_show_sport_pic">-->
+<!--        <item>@drawable/op_history_sport_data_track</item>-->
+<!--        <item>@drawable/op_history_sport_data_fold</item>-->
+<!--        <item>@drawable/op_history_sport_data_day</item>-->
+<!--        <item>@drawable/op_history_sport_data_month</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="switch_account_pic">-->
+<!--        <item>@drawable/op_account_show</item>-->
+<!--        <item>@drawable/op_switch_account_pic</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="suggestion_feedback_pic">-->
+<!--        <item>@drawable/op_operation_help</item>-->
+<!--        <item>@drawable/op_hot_issue_pic</item>-->
+<!--        <item>@drawable/op_suggestion_feedback</item>-->
+<!--    </string-array>-->
+</resources>

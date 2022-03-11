@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ishoes</string>
+
+    <string name="prompt">压力提示:</string>
+    <string name="danger">危险</string>
+    <string name="critical">严重</string>
+    <string name="early_alarm">预警</string>
+    <string name="normal">正常</string>
+    <!--instructions for use-->
+    <string name="instructions_for_use">使用说明</string>
+    <string name="precautions">注意事项</string>
+    <!--instructions-->
+    <string name="instructions">指导意见</string>
+    <string name="opinion_copy">意见文案:</string>
+    <string name="instruction_text">1、注意足部护理:\n
+        (1）每天检查双足，观察足底及脚趾间皮肤有无红肿、水泡、脚藓、伤口损伤等，若有需及时治疗。若双足较干燥，可薄涂一层润肤霜，以防皮肤开裂。 \n
+        (2）每晚睡前用温水(38℃左右为宜)泡脚10分钟左右，注意事先用手试水温避免烫伤，事后用柔软的吸水性强的毛巾轻柔擦拭,保持足底干净清洁。\n
+    </string>
+    <!--my switch account-->
+    <string name="switch_account">切换账号</string>
+    <string name="current_use">当前使用</string>
+    <!--my back-->
+    <string name="sign_out">退出登录</string>
+    <string name="close_app">关闭应用</string>
+    <!--my setting-->
+    <string name="opinion">1.xxxxxxx</string>
+    <string name="setting">设置</string>
+    <string name="change_password">密码修改</string>
+    <string name="origin_password">原 密 码 :</string>
+    <string name="password_hint">6–16位字母、数字,区分大小写</string>
+    <string name="new_password">新 密 码 :</string>
+    <string name="confirm_password">确 认 密 码 :</string>
+    <string name="confirm_password_hint">再次输入密码</string>
+    <string name="confirm">确 认</string>
+
+    <string name="alarm_prompt">报警提示</string>
+    <string name="unbind">解除绑定</string>
+    <!--sport-->
+    <string name="step_count">步数</string>
+    <string name="distance">距离</string>
+    <string name="data_statistics">数据统计</string>
+    <!--help and feed back-->
+    <string name="help_and_feedback">帮助与反馈</string>
+    <string name="help_and_feedback_instruction">您可以在《操作帮助》中查看系统操作指南，以便您熟悉使用产品！\n\n
+        您可以在《热点问题》中浏览优感鞋客户最关心的问题！\n\n
+        您也可以在《意见反馈》中将您的问题以文字（包括图片）形式上传，我们会尽快与您联系并处理！</string>
+    <string name="operational_help">若为操作问题，建议先看这里：操作帮助</string>
+    <string name="problem_or_suggestion">请描述您的问题和建议，有截图说明更好！</string>
+    <string name="phone_number">手机号码：</string>
+    <string name="contact_number">联系电话：</string>
+    <string name="submit_comments">提交意见</string>
+    <string name="feedback">意见反馈</string>
+
+    <string name="firmware_upgrade">固件升级</string>
+
+    <!--我的-->
+    <string name="my_sport">我的运动</string>
+    <string name="my_report">我的报告</string>
+    <string name="report">个人每日专属报告</string>
+
+    <!--图片反馈-->
+    <string name="photograph">拍照</string>
+    <string name="album">从相册选择</string>
+    <string name="cancel">取消</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

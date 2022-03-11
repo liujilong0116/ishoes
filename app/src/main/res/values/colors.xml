@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#040D20</color>
+    <color name="colorPrimaryDark">#0E0D20</color>
+    <color name="colorAccent">#0091DC</color>
+    <color name="colorPrimaryDarkTrans">#CCf57257</color>
+
+    <color name="color_1">#000001</color>
+    <color name="color_2">#600002</color>
+    <color name="color_3">#CF0001</color>
+    <color name="color_4">#FD6448</color>
+    <color name="color_5">#FD8A01</color>
+    <color name="color_6">#FDD702</color>
+    <color name="color_7">#9FFD02</color>
+    <color name="color_8">#00FD02</color>
+    <color name="color_9">#01BDFD</color>
+    <color name="color_10">#AFECED</color>
+
+    <color name="lineColor">#B2BCB2</color>
+    <color name="postiveColor">#0000FF</color>
+    <color name="dialog_btn_cancel">#666666</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme">#0092DC</color>
+
+</resources>

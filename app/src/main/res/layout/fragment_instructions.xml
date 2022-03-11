@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/underline_data"
+        android:paddingBottom="10dp">
+
+        <RelativeLayout
+            android:id="@+id/btn_my_instruction"
+            android:layout_width="40dp"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="13dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="10dp"
+                android:src="@drawable/left_arrow" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions"
+            android:textColor="#4D4D4D"
+            android:textSize="23sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="@string/instructions"
+        android:textColor="#4D4D4D"
+        android:textSize="21sp" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="35dp"-->
+<!--        android:layout_marginTop="15dp"-->
+<!--        android:text="@string/opinion_copy"-->
+<!--        android:textColor="#4D4D4D"-->
+<!--        android:textSize="16sp" />-->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginTop="18dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/instructions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#4D4D4D"
+            android:textSize="16sp"
+            android:text="1、注意足部护理:
+            \n(1）每天检查双足，观察足底及脚趾间皮肤有无红肿、水泡、脚藓、伤口损伤等，若有需及时治疗。若双足较干燥，可薄涂一层润肤霜，以防皮肤开裂。
+            \n(2）每晚睡前用温水(38℃左右为宜)泡脚10分钟左右，注意事先用手试水温避免烫伤，事后用柔软的吸水性强的毛巾轻柔擦拭,保持足底干净清洁
+            \n(3）正确修剪指甲，趾甲变软时平整横剪趾甲，不宜剪得太短，以免发生嵌甲;不能随意修剪鸡眼或结痂，或在鸡眼或结痂处使用刺激性药物，应由医生处理。
+            \n(4）袜子选择纯羊毛或棉制品比较合适，保证袜子平整减小与足底摩擦，袜口不宜过紧。袜子、鞋子应勤勉清洗晾晒。
+            \n2、注意合理饮食:
+            \n(1）保持营养均衡。在保证总能量不超标的前提下，合理分配糖类、蛋白质和脂肪三大营养物质的比例。糖类占55%~65%，蛋白质占10%~20%，脂肪占20%~30%为宜。
+            \n(2)糖类可选择复合糖类。复合糖类分解缓慢，而非一次大量涌入血液中，在消化过程中，这种饮食能够控制血糖含量，不必减少患者的饮食量。
+            \n(3）限制脂肪和胆固醇量。低脂食物益于胰岛素将糖分送到细胞。
+            \n(4)丰富膳食纤维:膳食纤维可使得糖分的吸收维持缓慢而稳定的状态。
+            \n(5）补充维生素和无机盐。病情控制不好的患者糖原异生作用旺盛，B族维生素消耗增多，补充维生素B12可改善神经症状。补充维生素C可防止因缺乏而引起的微血管病变。
+            \n(6)合理的膳食规律。在摄入总量确定的情况下坚持少食多餐，每餐定量并且保持七八分饱，细嚼慢咽。
+            \n(7)减少油腻食品,以清淡饮食为主。戒烟戒酒，控制食盐摄入量。
+            \n3、注意适当运动
+            \n(1)根据自身病情选择合适的运动强度。较低轻度的运动有散步、打太极拳、做家务等;低强度的运动有上下楼梯、打台球、骑自行车等;中等强度的运动有打羽毛球、慢跑、做操等。较高难度的运动不建议患者选择。
+            \n(2)每次运动时间控制在—小时内，其中包括运动前准备时间和运动后恢复时间。进食后—小时可以运动，不宜在饥饿时或则和饱餐后运动。
+            \n(3)锻炼后以第二天不感到疲惫为宜,如果疲惫或不适应减小运动量。在此基础上每周逐渐增加运动量。
+            \n
+"/>
+    </ScrollView>
+</LinearLayout>
